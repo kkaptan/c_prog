@@ -1,0 +1,4 @@
+C Programming Language - A modern approach
+
+ch8 - Arrays
+ch9 - Pointers
