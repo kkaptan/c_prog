@@ -1,4 +1,6 @@
 C Programming Language - A modern approach
 
 ch8 - Arrays
-ch9 - Pointers
+ch9 - Functions
+
+oth - other interesting problems
