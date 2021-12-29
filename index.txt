@@ -1,5 +1,6 @@
 C Programming Language - A modern approach
 
+ch3 - Formatted Input/Output
 ch8 - Arrays
 ch9 - Functions
 
